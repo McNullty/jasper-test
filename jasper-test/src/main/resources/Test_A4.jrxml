@@ -13,7 +13,7 @@
 			<textField>
 				<reportElement x="242" y="24" width="70" height="30" uuid="fd1b9129-d531-4791-8734-6a3f5bb79d22"/>
 				<textElement textAlignment="Center" verticalAlignment="Middle"/>
-				<textFieldExpression><![CDATA["Text Field"]]></textFieldExpression>
+				<textFieldExpression><![CDATA[com.analemma.jasper_test.CustomFunction.format("Hello World!")]]></textFieldExpression>
 			</textField>
 			<textField>
 				<reportElement x="370" y="24" width="70" height="30" uuid="70c46c37-0c91-4e80-8da3-3c4f0a58b2b0"/>
