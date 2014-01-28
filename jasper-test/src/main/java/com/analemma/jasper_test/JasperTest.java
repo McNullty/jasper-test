@@ -14,9 +14,9 @@ import net.sf.jasperreports.engine.data.JRBeanCollectionDataSource;
 import net.sf.jasperreports.swing.JRViewer;
 
 
-public class App {
+public class JasperTest {
 	public static void main(String[] args) {
-		String sourceFileName = "/home/mladenc/Workspaces/default/jasper-test/src/main/resources/Test_A4.jrxml";
+		String sourceFileName = "/home/mladenc/git/jasper-test/jasper-test/src/main/resources/Test_A4.jrxml";
 
 		System.out.println("Compiling Report Design ...");
 		try {
